@@ -1,0 +1,15 @@
+.navBg {
+    background-color: #000324;
+    width: 1920;
+    height: 120;
+}
+
+.navTxt {
+    color: white;
+  }
+
+.navbar-expand-lg .navbar-collapse {
+    display: flex;
+    justify-content: space-around;
+    flex-basis: auto;
+  }
