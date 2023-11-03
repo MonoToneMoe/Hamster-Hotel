@@ -13,3 +13,13 @@
     justify-content: space-around;
     flex-basis: auto;
   }
+
+.hT {
+    font-size: 45px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.hC {
+    font-size: 16px;
+    font-family: 'Source Sans 3', sans-serif;
+}
