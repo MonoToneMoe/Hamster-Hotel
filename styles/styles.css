@@ -23,3 +23,18 @@
     font-size: 16px;
     font-family: 'Source Sans 3', sans-serif;
 }
+
+.pacT {
+  font-size: 25px;
+  font-family: 'Dosis', sans-serif;
+}
+
+.head {
+  background-image: url('./images/header.jpg');
+  background-position: center;
+  height: 500px;
+  width: 100;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size: cover;
+}
